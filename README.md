@@ -17,7 +17,7 @@ Once this Chiru patch is complete, I plan on making a version of it that is comp
 ## Patch status
 - [x] Episode 5 CGs
 - [x] Episode 5 bugfixing
-- [ ] Episode 6 CGs (WiP)
+- [x] Episode 6 CGs
 - [ ] Episode 6 bugfixing
 - [ ] Episode 7 CGs
 - [ ] Episode 7 bugfixing
